@@ -1,6 +1,6 @@
 # SmartTour Big Data
 
-Proyecto académico de análisis Big Data aplicado al turismo.
+Proyecto académico de análisis Big Data aplicado al turismo. Creado por Pablo Gasamans
 
 ## Objetivo
 
