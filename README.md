@@ -4,7 +4,7 @@ Proyecto académico de análisis Big Data aplicado al turismo. Creado por Pablo 
 
 ## Objetivo
 
-Crear una plataforma para analizar datos turísticos.
+Crear una plataforma para analizar datos turísticos.Pablo Gasamans
 
 ## Tecnologías
 
