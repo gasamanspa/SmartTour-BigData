@@ -10,6 +10,9 @@ services:
     volumes:
       - ./notebooks:/home/jovyan/work
       - ./datasets:/home/jovyan/datasets
+      - ./datasets:/home/jovyan/scripts
+      - ./datasets:/home/jovyan/notebooks
+      - ./datasets:/home/jovyan/docs
 
     environment:
       - JUPYTER_ENABLE_LAB=yes
